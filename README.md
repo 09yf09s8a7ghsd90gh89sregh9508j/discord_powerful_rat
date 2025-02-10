@@ -1,4 +1,10 @@
 # discord_powerful_rat
+How to Build?
+Download and install Python 3 (Make sure to enable the Add to PATH option.)
+
+Verify the installation by executing python --version in CMD.
+
+run src/main.py or just click on the exe and run it as admin. also you have to disable windows securitty for this to work.
 
 This is the most powerful rat that works on all platforms uses a discord webhook and bypasses windows security.
 
@@ -73,7 +79,4 @@ Features:
 (...more)
 
 
-How to Build?
-Download and install Python 3 (Make sure to enable the Add to PATH option.)
-Verify the installation by executing python --version in CMD.
-run src/main.py or just click on the exe and run it as admin. also you have to disable windows securitty for this to work.
+
