@@ -1,7 +1,9 @@
 # discord_powerful_rat
 
 This is the most powerful rat that works on all platforms uses a discord webhook and bypasses windows security.
+
 Features:
+
 • GUI Builder.
 • UAC Bypass.
 • Custom Icon.
